@@ -1,52 +1,110 @@
-{
-  "commandBanned": {},
-  "envGlobal": {
-    "weatherApiKey": "d7e795ae6a0d44aaa8abb1a0a7ac19e4",
-    "goatbotApikey": ""
-  },
-  "envCommands": {
-    "daily": {
-      "rewardFirstDay": {
-        "coin": 100,
-        "exp": 10
-      }
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261550013231587%22%3A%22q4OE2XRv%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2024-09-21T14:23:44.645Z",
+        "lastAccessed": "2024-09-21T14:23:44.646Z"
     },
-    "notification": {
-      "delayPerGroup": 250
+    {
+        "key": "datr",
+        "value": "JNbuZgFq4oDYU0B-9VBFCJGs",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-21T14:23:44.646Z",
+        "lastAccessed": "2024-09-21T14:23:44.646Z"
     },
-    "rank": {
-      "deltaNext": 5
+    {
+        "key": "sb",
+        "value": "JNbuZkkrgAGsVdE4Uirniidn",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-21T14:23:44.646Z",
+        "lastAccessed": "2024-09-21T14:23:44.646Z"
     },
-    "rankup": {
-      "deltaNext": 5
+    {
+        "key": "m_pixel_ratio",
+        "value": "3.6569037437438965",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-21T14:23:44.646Z",
+        "lastAccessed": "2024-09-21T14:23:44.646Z"
     },
-    "appstore": {
-      "limitResult": 3
+    {
+        "key": "wd",
+        "value": "295x561",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-21T14:23:44.646Z",
+        "lastAccessed": "2024-09-21T14:23:44.647Z"
     },
-    "ads": {
-      "deltaNext": 5
+    {
+        "key": "c_user",
+        "value": "61550013231587",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-21T14:23:44.647Z",
+        "lastAccessed": "2024-09-21T14:23:44.647Z"
     },
-    "cry": {
-      "deltaNext": 5
+    {
+        "key": "fr",
+        "value": "0ObViX0LhrtASMdQz.AWU7qDDLZALDAFS3tKDMrr-xgF8.Bm7tYk..AAA.0.0.Bm7tZd.AWXeKPrjEkg",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-21T14:23:44.647Z",
+        "lastAccessed": "2024-09-21T14:23:44.647Z"
     },
-    "datetime": {},
-    "dhbc": {
-      "reward": 1000
+    {
+        "key": "xs",
+        "value": "34%3A_rJrf27UN6b6Nw%3A2%3A1726928479%3A-1%3A3554",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-21T14:23:44.647Z",
+        "lastAccessed": "2024-09-21T14:23:44.647Z"
     },
-    "info": {},
-    "quiz": {
-      "reward": 0
+    {
+        "key": "locale",
+        "value": "fr_FR",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-21T14:23:44.647Z",
+        "lastAccessed": "2024-09-21T14:23:44.647Z"
     },
-    "wanted2": {
-      "deltaNext": 5
+    {
+        "key": "fbl_st",
+        "value": "100736208%3BT%3A28782141",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-21T14:23:44.647Z",
+        "lastAccessed": "2024-09-21T14:23:44.647Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2625%3Btimestamp%3A1726928486",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-21T14:23:44.647Z",
+        "lastAccessed": "2024-09-21T14:23:44.647Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B561x295x3.6569037437438965",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-21T14:23:44.647Z",
+        "lastAccessed": "2024-09-21T14:23:44.647Z"
     }
-  },
-  "envEvents": {
-    "logsbot": {
-      "allow": true
-    }
-  },
-  "commandUnload": [
-    "notify.js"
-  ]
-}
+]
